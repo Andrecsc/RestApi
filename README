@@ -1,0 +1,5 @@
+Andrés Camilo Cardona Arellano - T00064825
+Brayan Alberto Tovar Willie - T00058766
+
+Run this command in powershell
+    -> python.exe -m flask run -h localhost -p 8000

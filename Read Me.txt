@@ -1,2 +1,0 @@
-Run this command in powershell
-    -> python.exe -m flask run -h localhost -p 8000
